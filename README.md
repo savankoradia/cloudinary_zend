@@ -5,5 +5,4 @@ This project helps developer of zend framework to easy integrate with project. I
 
 
 - Put these files into "Cloudinary" directory of Zend Project's library.
-- Register library into your application.ini file. => autoloadernamespaces[] = "Cloudinary"
-- 
+- Register library into your application.ini file. => autoloadernamespaces[] = "Cloudinary" 
